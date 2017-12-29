@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2896779190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e8e894200f65cd8f85780d5b83b9c2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Atlas/gacha/gacha_1.png
+- Assets/Atlas/gacha/gacha_2.png
+- Assets/Atlas/gacha/gacha_3.png
+Dependencies: []

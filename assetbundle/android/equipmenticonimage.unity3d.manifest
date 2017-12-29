@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4017199292
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e531b5a8a7040a0004397da155ba7122
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Atlas/equipmenticon/weapon_13.png
+- Assets/Atlas/equipmenticon/weapon_6.png
+- Assets/Atlas/equipmenticon/weapon_12.png
+- Assets/Atlas/equipmenticon/weapon_8.png
+- Assets/Atlas/equipmenticon/clothes_2.png
+- Assets/Atlas/equipmenticon/weapon_3.png
+- Assets/Atlas/equipmenticon/horse_4.png
+- Assets/Atlas/equipmenticon/horse_2.png
+- Assets/Atlas/equipmenticon/weapon_2.png
+- Assets/Atlas/equipmenticon/clothes_3.png
+- Assets/Atlas/equipmenticon/horse_1.png
+- Assets/Atlas/equipmenticon/horse_5.png
+- Assets/Atlas/equipmenticon/horse_3.png
+- Assets/Atlas/equipmenticon/weapon_11.png
+- Assets/Atlas/equipmenticon/weapon_10.png
+- Assets/Atlas/equipmenticon/weapon_1.png
+- Assets/Atlas/equipmenticon/weapon_7.png
+- Assets/Atlas/equipmenticon/weapon_5.png
+- Assets/Atlas/equipmenticon/clothes_1.png
+- Assets/Atlas/equipmenticon/weapon_4.png
+- Assets/Atlas/equipmenticon/weapon_9.png
+Dependencies: []

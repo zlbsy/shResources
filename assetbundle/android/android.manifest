@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1502100548
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: npcasset.unity3d
+      Dependencies: {}

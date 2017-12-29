@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2480890795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6daf50691c65087e60e8e64b54c71ac2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e0106955fbdaa5464d7187fe13a3b251
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: bea0092166d184d03a828035785e0326, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Editor Default Resources/ScriptableObject/storyprogressasset.asset
+Dependencies: []
